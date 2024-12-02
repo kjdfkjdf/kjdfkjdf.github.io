@@ -1,31 +1,26 @@
 ---
-layout: post
-title: A quick view of aliquam post
-category: example
-comments: true
-description: This page is only for demonstration purposes. It shows the styling of all the components found in Aliquam theme.
+layout: layout
+title: title
+category: category
+comments: comments
+description: description
 tags:
-    - lorem
-    - ipsum
+    - tag1
+    - tag2
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc rhoncus luctus quam in gravida.
-Mauris rutrum ullamcorper pellentesque. Aliquam posuere euismod erat, ac consequat leo ullamcorper non. 
-Vestibulum commodo nibh justo. Praesent gravida elementum sapien, ut convallis massa bibendum nec.
-Suspendisse interdum urna condimentum quam vestibulum, sit amet feugiat quam laoreet. 
+content
 
 
->The first rule of any technology used in a business is that automation applied to an efficient operation will magnify the efficiency. The second is that automation applied to an inefficient operation will magnify the inefficiency.
+>content2
 ><footer><cite> - Bill Gates</cite></footer>
 {: .blockquote cite="http://www.worldwildlife.org/who/index.html" }
 
-Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. 
-Nunc orci purus, egestas a erat pulvinar, fringilla sodales turpis. Fusce luctus eu eros at maximus. 
+content3
 
 ## This is h2 header
 
-Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. 
-Nunc orci purus, egestas a erat pulvinar, fringilla sodales turpis. Fusce luctus eu eros at maximus. 
+content4
 
 
 <a name="definition-dfa"></a>
