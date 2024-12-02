@@ -1,7 +1,7 @@
 ---
 layout: layout
 title: title
-category: category
+category: example
 comments: true
 description: description
 tags:
