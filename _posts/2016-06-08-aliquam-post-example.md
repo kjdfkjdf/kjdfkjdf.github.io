@@ -2,7 +2,7 @@
 layout: post
 title: title
 category: example
-comments: true
+comments: comments
 description: description
 tags:
     - tag1
