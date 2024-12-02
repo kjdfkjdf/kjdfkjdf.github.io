@@ -1,5 +1,5 @@
 ---
-layout: layout
+layout: post
 title: title
 category: ategory
 comments: true
