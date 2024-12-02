@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: layout
 title: title
-category: example
-comments: comments
+category: category
+comments: true
 description: description
 tags:
     - tag1
