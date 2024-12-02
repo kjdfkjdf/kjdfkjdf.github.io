@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: layout
 title: title
-category: example
+category: ategory
 comments: true
 description: description
 tags:
